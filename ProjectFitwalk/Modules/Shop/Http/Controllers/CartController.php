@@ -21,8 +21,9 @@ class CartController extends Controller
      */
     public function index()
     {
+        dd(auth()->user()->toArray());
         $cart = $this->cartRepository->findByUser(auth()->user());
-        $this->data['cart'] = $cart;
+        // $this->data['cart'] = $cart;
 
         return $this->loadTheme('carts.index', $this->data);
     }
