@@ -1,8 +1,8 @@
 <div class="container menu-wrapper fixed-top d-none d-lg-block">
     <div class="menu d-flex justify-content-center align-items-center">
     <a class="nav-link active" href="#">Home</a>
-    <a class="nav-link" href="#">Best Seller</a>
-    <a class="nav-link" href="#">New Arrival</a>
+    <a class="nav-link" href="home.col-6">Popular</a>
+    <a class="nav-link" href="#">Latest</a>
     </div>
   </div>
   
