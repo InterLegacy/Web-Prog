@@ -28,7 +28,7 @@
                                 <div class="row align-items-center">
                                     <div class="col-6 col-md-6 col-lg-7">
                                         <div class="d-flex">
-                                            <img src="<?php echo e(asset('img/p1.jpg')); ?>" alt="Ecommerce" style="height: 70px;">
+                                            <img src="<?php echo e(asset('img/logo.jpg')); ?>" alt="Ecommerce" style="height: 70px;">
                                             <div class="ms-3">
                                                 <a href="product.html">
                                                     <h6 class="mb-0"><?php echo e($item->product->name); ?></h6>

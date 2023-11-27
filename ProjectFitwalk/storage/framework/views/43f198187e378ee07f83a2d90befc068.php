@@ -92,7 +92,7 @@
                                 </tr>
                                 <tr>
                                     <td>Type:</td>
-                                    <td>Fruits</td>
+                                    <td>Sneakers</td>
                                 </tr>
                                 <tr>
                                     <td>Shipping:</td>

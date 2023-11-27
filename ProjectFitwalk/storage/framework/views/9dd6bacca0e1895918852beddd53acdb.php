@@ -8,14 +8,14 @@
         <h3 class="mb-3">Navigation</h3>
         <ul class="p-0">
           <li><a href="#">Home</a></li>
-          <li class="mt-3"><a href="#">Best Seller</a></li>
-          <li class="mt-3"><a href="#">Category</a></li>
+          <li class="mt-3"><a href="#">Popular</a></li>
+          <li class="mt-3"><a href="#">Latest</a></li>
           <li class="mt-3"><a href="#">Comunity</a></li>
         </ul>
       </div>
       <div class="col-md-3 mt-4 mt-sm-0">
         <h3 class="mb-3">Binus University</h3>
-        <a href="#">JeremyShawn@binus.ac.id</a>
+        <a href="#">Fitwalk@binus.ac.id</a>
         <p>Jln. Kemanggisan Raya, No 11 Jakarta Barat Indonesia</p>
       </div>
     </div>

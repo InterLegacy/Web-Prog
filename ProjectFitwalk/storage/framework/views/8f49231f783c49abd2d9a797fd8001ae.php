@@ -16,8 +16,8 @@
     <div class="row mt-5">
       <div class="col-lg-3 col-6">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_01.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 1</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/adidascampus.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">SNEAKERS ADIDAS CAMPUS 2.0 SPORT SHOE</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -26,15 +26,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 1.350.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_02.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 2</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/archfitdeluxe.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">SKECHERS ARCH FIT D'LUX FITNESS SLIP ON SHOES</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -43,15 +43,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 1.110.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6 mt-3 mt-lg-0">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_03.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 3</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/nikeairmax.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">Nike Air Max 97 “Silver Bullet” 87 DM0028-002</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -60,15 +60,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 1.550.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6 mt-3 mt-lg-0">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_04.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 4</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/newbalance.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">New Balance Men's Made in USA 990v6</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -77,7 +77,7 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 3.300.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
@@ -100,8 +100,8 @@
     <div class="row mt-5">
       <div class="col-lg-3 col-6">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_01.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 1</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/airjordants.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">AIR JORDAN 1 RETRO LOW OG X TRAVIS SCOTT 'REVERSE MOCHA'</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -110,15 +110,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 3.699.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_02.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 2</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/airjordanrt.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">Air Jordan Retro OG</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -127,15 +127,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 3.500.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6 mt-3 mt-lg-0">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_03.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 3</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/airjordan6.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">Air Jordan 6 'University Blue'</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -144,15 +144,15 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 3.899.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-6 mt-3 mt-lg-0">
         <div class="card card-body p-lg-4 p3">
-          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/shop_04.jpg')); ?>" alt="" class="img-fluid"></a>
-          <h3 class="product-name mt-3">Product 4</h3>
+          <a href="#"><img src="<?php echo e(asset('themes/projectfitwalk/assets/img/adidassamba.jpg')); ?>" alt="" class="img-fluid"></a>
+          <h3 class="product-name mt-3">Adidas Samba OG White</h3>
           <div class="rating">
             <i class="bx bxs-star"></i>
             <i class="bx bxs-star"></i>
@@ -161,7 +161,7 @@
             <i class="bx bxs-star"></i>
           </div>
           <div class="detail d-flex justify-content-between align-items-center mt-4">
-              <p class="price">IDR 200.000</p>
+              <p class="price">IDR 1.750.000</p>
               <a href="#" class="btn-cart"><i class="bx bx-cart-alt"></i></a>
           </div>
         </div>
